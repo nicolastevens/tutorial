@@ -1,3 +1,5 @@
 Testing text editor
 
 Cold and dry, but everything is my favorite color
+
+Look here is a new line
